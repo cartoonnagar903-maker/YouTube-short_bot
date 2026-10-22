@@ -1,3 +1,5 @@
+psycopg2-binary
+psycopg
 google-genai
 google-api-python-client
 google-auth-oauthlib
