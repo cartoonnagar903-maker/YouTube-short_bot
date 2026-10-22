@@ -1,7 +1,12 @@
-google-generativeai
+google-genai
+google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
-google-api-python-client
 requests
 flask
 python-dotenv
+moviepy
+edge_tts
+numpy
+psycopg2-binary
+cryptography
